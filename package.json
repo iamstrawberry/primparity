@@ -1,0 +1,26 @@
+{
+    "name": "primparity",
+    "version": "1.0.0",
+    "description": "Returns true or false depending on the number's parity (odd/even) and primality (prime/composite); Also checks if integer does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
+    "files": [
+        "index.js"
+    ],
+    "main": "index.js",
+    "keywords": [
+        "primparity",
+        "odd",
+        "even",
+        "prime",
+        "composite",
+        "integer",
+        "boolean",
+        "numeric",
+        "parity",
+        "primality",
+        "string"
+    ],
+    "author": "wQ (https://github.com/iamstrawberry)",
+    "homepage": "https://github.com/iamstrawberry/primparity",
+    "repository": "iamstrawberry/primparity",
+    "license": "MIT"
+}
