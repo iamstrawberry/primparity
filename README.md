@@ -4,10 +4,10 @@
 
 ## Install
 
-Install with [npm](https://www.npmjs.com/):
+Install with [npm](https://www.npmjs.com/package/primparity):
 
 ```sh
-$ npm install --save primparity
+npm i primparity
 ```
 
 ## Usage
