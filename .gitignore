@@ -1,0 +1,9 @@
+# usual
+*.DS_Store
+.idea
+.vscode
+*.sublime-*
+
+# npm
+node_modules
+npm-debug.log
