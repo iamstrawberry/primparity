@@ -1,6 +1,6 @@
 {
     "name": "primparity",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "description": "Returns true or false depending on the number's parity (odd/even) and primality (prime/composite); Also checks if integer does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
     "files": [
         "index.js"
